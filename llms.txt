@@ -1,0 +1,21 @@
+# Quiete
+
+> Quiete is an iPhone app (iOS 26 or later) for relaxation and sleep. It plays binaural and isochronic beats, solfeggio and 432 Hz tones and sleep soundscapes, and guides five slow-breathing patterns. It has no account, no server and collects no data. It is not yet on the App Store.
+
+- Six guided sessions: Calm anxiety, Ease agitation, Release tension, Quiet racing thoughts, Drift to sleep, Five-minute reset. In five, the binaural beat glides down; Drift to sleep goes from theta to a 3 Hz delta beat over 20 minutes.
+- Ten tones from 174 to 963 Hz (432 and 528 Hz included) and five brainwave bands, delta to gamma. Binaural beats need headphones; isochronic pulses and pure tones work on the speaker.
+- Eight soundscapes: rain, ocean, night shore, storm shelter, warm drone, white, pink and brown noise. Plain noise has a one-hour timer by default because a 2026 sleep-lab study (Basner et al., Sleep) found all-night pink noise shortened REM sleep; "No limit" is available.
+- Breathing: cyclic sighing, coherent breathing at six breaths a minute, longer exhale, 4-7-8, box breathing.
+- Journal with calm rating and week view, three Home Screen widgets, lock-screen playback with timer and fade, plays over other apps' music.
+- Languages: English, Italian, Spanish, French, German.
+- Not a medical device.
+
+## Pages
+
+- [Quiete (English)](https://nicolomarinangeli.github.io/quiete/): features, research sources with DOIs, support, FAQ
+- [Quiete (Italiano)](https://nicolomarinangeli.github.io/quiete/it/): the same page in Italian
+- [Privacy policy](https://nicolomarinangeli.github.io/quiete/privacy/): in English, Italian, Spanish, French and German
+
+## Support
+
+- Email: nicolom.dev.supporto@gmail.com (English or Italian)
